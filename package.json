@@ -1,0 +1,19 @@
+{
+  "name": "larger-number-add",
+  "version": "1.0.0",
+  "description": "resolve large number plus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "prepublish": "webpack"
+  },
+  "keywords": [],
+  "author": "Mr.YanG",
+  "license": "ISC",
+  "devDependencies": {
+    "terser-webpack-plugin": "^2.1.3",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.9"
+  }
+}
