@@ -1,6 +1,6 @@
 {
   "name": "larger-number-add",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "resolve large number plus",
   "main": "index.js",
   "scripts": {
@@ -8,9 +8,13 @@
     "build": "webpack",
     "prepublish": "webpack"
   },
-  "keywords": [],
+  "keywords": ["larger", "number", "plus"],
   "author": "Mr.YanG",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iamflowerdog/larger-number-add"
+  },
   "devDependencies": {
     "terser-webpack-plugin": "^2.1.3",
     "webpack": "^4.41.2",
