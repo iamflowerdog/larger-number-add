@@ -1,6 +1,6 @@
 {
   "name": "larger-number-add",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "resolve large number plus",
   "main": "index.js",
   "scripts": {
